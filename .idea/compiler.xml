@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="lambda-expression" target="8" />
+      <module name="lambda-expression" target="16" />
     </bytecodeTargetLevel>
   </component>
 </project>
