@@ -1,4 +1,4 @@
-package pt.learning.model;
+package pt.learning;
 
 import java.util.Arrays;
 import java.util.Comparator;
